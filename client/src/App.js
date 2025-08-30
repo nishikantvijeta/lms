@@ -23,7 +23,7 @@ import DisplayLectures from "./Pages/Dashboard/DisplayLectures";
 import RequireAuth from "./Components/Auth/RequireAuth";
 import NotRequireAuth from "./Components/Auth/NotRequireAuth";
 import Denied from "./Pages/Denied";
-
+import Chatbot from "./Chatbot";
 const App = () => {
   return (
     <>
